@@ -36,11 +36,24 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 ### Work Flow : 
 ---
 
-### Power BI
+### Power BI :
 
+#### Data Preparation
+- Import your employee dataset into Power BI.
+- Ensure that the dataset includes relevant fields such as employee ID, hire date, termination date (if applicable), performance ratings, department, etc.
+- Cleanse and transform the data as needed, handling missing values and ensuring consistency.
 
-### Python 
+#### Design the dashboard layout based on the insights you want to derive.
 
+Include visuals such as charts, graphs, and tables to represent key metrics related to employee attrition.
+
+**Examples of visuals to include:**
+
+1. Attrition Rate Over Time: Line chart showing the trend of attrition over time.
+2. Attrition by Department: Bar chart illustrating attrition rates by department.
+3. Reasons for Attrition: Pie chart or stacked bar chart showing reasons for employee attrition (e.g., voluntary resignation, termination, retirement).
+4. Employee Tenure Distribution: Histogram showing the distribution of employee tenure within the organization.
+5. Attrition Prediction (Optional): Utilize machine learning algorithms (if applicable) to predict future attrition based on historical data. Display the predicted attrition rates alongside actual rates.
 
 ### Dashboard :
 ----
@@ -61,5 +74,21 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 6. **Gender**: Compare attrition rates between genders. It's higher for males compared to females.
 
 7. **Job Satisfaction**: Attrition is linked to job satisfaction across roles. Lower satisfaction means higher attrition risk.
+
+### Python 
+
+1. Data Collection and Preparation
+- Collect historical employee data from relevant sources such as HR databases or CSV files.
+- Preprocess the data to handle missing values, outliers, and inconsistencies.
+- Split the dataset into training and testing sets.
+  
+2. Exploratory Data Analysis (EDA)
+- Explore the dataset to understand the distribution and relationships of variables.
+- Visualize key features to identify patterns and correlations.
+- Conduct statistical analysis to gain insights into factors influencing employee attrition.
+3. Feature Engineering
+- Engineer new features or transform existing ones to improve model performance.
+- Encode categorical variables using techniques such as one-hot encoding or label encoding.
+- Scale numerical features to ensure uniformity across different ranges.
 
 
