@@ -33,10 +33,8 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 - Python
 - Power BI
 
-### Work Flow : 
----
-
 ### Power BI :
+---
 
 #### Data Preparation
 - Import your employee dataset into Power BI.
@@ -76,6 +74,7 @@ Include visuals such as charts, graphs, and tables to represent key metrics rela
 7. **Job Satisfaction**: Attrition is linked to job satisfaction across roles. Lower satisfaction means higher attrition risk.
 
 ### Python 
+---
 
 1. Data Collection and Preparation
 - Collect historical employee data from relevant sources such as HR databases or CSV files.
@@ -86,9 +85,24 @@ Include visuals such as charts, graphs, and tables to represent key metrics rela
 - Explore the dataset to understand the distribution and relationships of variables.
 - Visualize key features to identify patterns and correlations.
 - Conduct statistical analysis to gain insights into factors influencing employee attrition.
+  
 3. Feature Engineering
 - Engineer new features or transform existing ones to improve model performance.
 - Encode categorical variables using techniques such as one-hot encoding or label encoding.
 - Scale numerical features to ensure uniformity across different ranges.
 
+4. Model Training
+- Train the random forest model using the training dataset.
+- Fine-tune model hyperparameters using techniques such as grid search or random search to optimize performance.
+- 
+5. Model Evaluation
+- Evaluate the trained models using the testing dataset.
+- Measure performance metrics such as accuracy.
+-  Use confusion matrices and ROC curves to visualize model performance.
+-  
+7. Model Interpretation
+- Interpret the trained models to understand the importance of features in predicting employee attrition.
+- Identify key drivers contributing to attrition and their impact on the prediction.
+
+#### Key Insights :
 
