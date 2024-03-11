@@ -1,6 +1,10 @@
 # Unified Mentor Intern
 ## Project Title - Employee Attrition Analysis
 
+❇️ Python - [Insights]()
+
+❇️ Novypro Power BI Dashboard - [Live Report Link]()
+
 ### Project Objective :
 ---
 ![greendestination+logo](https://github.com/arun10ak/Unified-Mentor-Intern/assets/117892039/a8eb0286-4b8e-4d08-8d3a-e0231db077cb)
@@ -9,7 +13,6 @@ Green Destinations is a well-known travel agency. The HR Director has recently n
 
 ### Data Source : 
 ---
-
 
 we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/greendestination.csv) . It contains the  details of the employees of the company.
 
@@ -30,7 +33,20 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 - Python
 - Power Bi
 
-### Key Insights:
+### Work Flow : 
+---
+
+#### Power BI
+
+
+### Python 
+
+
+### Dashboard :
+----
+![image](https://github.com/arun10ak/Unified-Mentor-Intern/assets/117892039/30732fba-5811-4a6e-b413-08e636e315e5)
+
+#### Key Insights :
 
 1. **Age**: Uncover attrition patterns by age groups. Most attrition occurs in the 26-35 age group.
 
@@ -45,4 +61,5 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 6. **Gender**: Compare attrition rates between genders. It's higher for males compared to females.
 
 7. **Job Satisfaction**: Attrition is linked to job satisfaction across roles. Lower satisfaction means higher attrition risk.
-  
+
+
