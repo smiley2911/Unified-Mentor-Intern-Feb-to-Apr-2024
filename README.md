@@ -31,12 +31,12 @@ we used csv [file](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/g
 
 - MS Excel
 - Python
-- Power Bi
+- Power BI
 
 ### Work Flow : 
 ---
 
-#### Power BI
+### Power BI
 
 
 ### Python 
