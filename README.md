@@ -1,9 +1,9 @@
 # Unified Mentor Intern
 ## Project Title - Employee Attrition Analysis
 
-❇️ Python - [Insights]()
+❇️ Python - [Insights](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/Employee%20Attrition.ipynb)
 
-❇️ Novypro Power BI Dashboard - [Live Report Link]()
+❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/employee-attrition-analysis-10)
 
 ### Project Objective :
 ---
