@@ -9,13 +9,13 @@ Green Destinations is a well-known travel agency. The HR Director has recently n
 ### Data Source :
 
 we used csv file. It contains the  details of the employees of the company.
- ** 'Age', 'Attrition', 'BusinessTravel', 'DailyRate', 'Department',
-       'DistanceFromHome', 'Education', 'EducationField', 'EmployeeCount',
-       'EmployeeNumber', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate',
-       'JobInvolvement', 'JobLevel', 'JobRole', 'JobSatisfaction',
-       'MaritalStatus', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked',
-       'Over18', 'OverTime', 'PercentSalaryHike', 'PerformanceRating',
-       'RelationshipSatisfaction', 'StandardHours', 'StockOptionLevel',
-       'TotalWorkingYears', 'TrainingTimesLastYear', 'WorkLifeBalance',
-       'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion',
-       'YearsWithCurrManager' **
+
+ **'Age','Attrition', 'BusinessTravel', 'DailyRate', 'Department','DistanceFromHome', 'Education', 'EducationField', 'EmployeeCount',
+ 
+'EmployeeNumber', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate','JobInvolvement', 'JobLevel', 'JobRole', 'JobSatisfaction',
+
+'MaritalStatus', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked','Over18', 'OverTime', 'PercentSalaryHike', 'PerformanceRating',
+
+'RelationshipSatisfaction', 'StandardHours', 'StockOptionLevel','TotalWorkingYears', 'TrainingTimesLastYear', 'WorkLifeBalance',
+
+'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion','YearsWithCurrManager'**
