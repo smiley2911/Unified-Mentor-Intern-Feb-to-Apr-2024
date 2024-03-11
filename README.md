@@ -106,3 +106,25 @@ Include visuals such as charts, graphs, and tables to represent key metrics rela
 
 #### Key Insights :
 
+1. Attrition Rate:
+- About 16.12% of employees leave the company.
+- Factors Contributing to Attrition:
+
+2. Attrition is higher in the Research & Development department.
+- Employees with backgrounds in Life Sciences and Technical Degrees tend to leave more.
+- Many employees leave after one year, possibly due to retention issues.
+- Employees without recent promotions are more likely to leave.
+- Men tend to leave more than women.
+- Lower-income employees are more likely to leave.
+- Relationship between Age, Monthly Income, and Attrition:
+
+3. Older employees generally have higher incomes.
+- Those with lower incomes are more likely to leave.
+
+4. Correlation Analysis:
+- Overtime, marital status, distance from home, job role, and department are positively correlated with attrition.
+- Satisfaction-related factors are negatively correlated.
+
+5.Employee Attrition Prediction:
+- A model predicts attrition with 86.39% accuracy.
+
