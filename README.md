@@ -3,8 +3,6 @@
 
 ❇️ Python - [Insights](https://github.com/arun10ak/Unified-Mentor-Intern/blob/main/Employee%20Attrition.ipynb)
 
-❇️ Novypro Power BI Dashboard - [Live Report Link](https://www.novypro.com/project/employee-attrition-analysis-10)
-
 ### Project Objective :
 ---
 ![greendestination+logo](https://github.com/arun10ak/Unified-Mentor-Intern/assets/117892039/a8eb0286-4b8e-4d08-8d3a-e0231db077cb)
